@@ -1,0 +1,4 @@
+Oi
+eu estou
+participando
+do minicurso de Python
